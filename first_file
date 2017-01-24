@@ -1,3 +1,4 @@
+bash: x: command not found
 This is the first file
 <<<<<<< HEAD
 second line in first file and in master branch
@@ -8,3 +9,6 @@ Hello
 second line in dev branch 
 Edited in dev and apply stash command
 >>>>>>> 55ac3163f185065dda4976c2d638318eece06dc2
+
+
+first file
